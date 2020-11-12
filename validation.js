@@ -24,6 +24,7 @@ $(document).ready(function () {
                 },
             grade:
                 {
+                    required: "Enter a grade",
                     min: "Too small",
                     max: "Too big",
                     digits: "bad"
